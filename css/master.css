@@ -287,31 +287,92 @@ p {
   }
 }
 
+@media (max-width: 1024px) and (max-height: 768px) {
+  body {
+    height: 768px;
+  }
+
+  /* 27:20:55:10 */
+  h1 {
+    position: fixed;
+    left: 30px;
+    top: 0px;
+    font-family: Jazz Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 195px;
+    letter-spacing: 0.02em;
+  }
+
+  /* ЖИРАФ */
+  h2 {
+    position: fixed;
+    left: 35px;
+    top: 285px;
+    font-size: 175px;
+    letter-spacing: -0.04em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 900;
+  }
+
+  /* НА ЧАС */
+  h3 {
+    position: fixed;
+    left: 22px;
+    top: 565px;
+    font-size: 175px;
+    letter-spacing: -0.03em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 900;
+  }
+
+  /* ТУСОВКА 25.03.2020 ЖЕЛТАЯ Д.88 */
+  p {
+    position: fixed;
+    width: 160px;
+    height: 190px;
+    right: 40px;
+    top: 310px;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 116.52%;
+  }
+}
 
 
 
 
 
+/* @media (max-width: 768px) and (max-height: 1024px) {
+body {
+  height: 1024px;
+} */
 
+/* @media (max-width: 414px) and (max-height: 896px) {
+body {
+  height: 896px;
+} */
 
+/* @media (max-width: 414px) and (max-height: 736px) {
+body {
+  height: 896px;
+} */
 
+/* @media (max-width: 375px) and (max-height: 812px) {
+body {
+  height: 896px;
+} */
 
+/* @media (max-width: 375px) and (max-height: 667px) {
 
+body {
+  height: 667px;
+} */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  /* lll */
+/* @media (max-width: 320px) and (max-height: 568px) {
+body {
+  height: 568px;
+} */
