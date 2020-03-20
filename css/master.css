@@ -67,20 +67,19 @@ p {
   z-index: 1;
 }
 
-.telo {
+/* .telo {
   position: relative;
   top: -16px;
   z-index: 100;
-}
+} */
 
-h4 {
-  display: none;
+.logo {
+  position: fixed;
+  width: 296px;
+  height: 267.71px;
+  left: 1590px;
+  top: 744.64px;
 }
-
-h5 {
-  display: none;
-}
-
 
 @media (max-width: 1920px) {
 
@@ -139,20 +138,6 @@ h5 {
     color: #FFFFFF;
     z-index: 1;
   }
-
-  .telo {
-    position: relative;
-    top: -16px;
-    z-index: 100;
-  }
-
-  h4 {
-    display: none;
-  }
-
-  h5 {
-    display: none;
-  }
 }
 
 @media (max-width: 1680px) {
@@ -203,14 +188,6 @@ h5 {
     font-style: normal;
     font-variant: normal;
     line-height: 116.52%;
-  }
-
-  h4 {
-    display: none;
-  }
-
-  h5 {
-    display: none;
   }
 }
 
@@ -263,14 +240,6 @@ h5 {
     font-style: normal;
     font-variant: normal;
     line-height: 116.52%;
-  }
-
-  h4 {
-    display: none;
-  }
-
-  h5 {
-    display: none;
   }
 }
 
@@ -325,14 +294,6 @@ h5 {
     font-variant: normal;
     line-height: 116.52%;
   }
-
-  h4 {
-    display: none;
-  }
-
-  h5 {
-    display: none;
-  }
 }
 
 
@@ -385,14 +346,6 @@ h5 {
     font-style: normal;
     font-variant: normal;
     line-height: 116.52%;
-  }
-
-  h4 {
-    display: none;
-  }
-
-  h5 {
-    display: none;
   }
 }
 
@@ -447,14 +400,6 @@ h5 {
     font-style: normal;
     font-variant: normal;
     line-height: 116.52%;
-  }
-
-  h4 {
-    display: none;
-  }
-
-  h5 {
-    display: none;
   }
 }
 
@@ -518,74 +463,7 @@ h5 {
   h1 {
     display: none;
   }
-
-  h5 {
-    display: none;
-  }
 }
-
-
-@media (max-width: 414px) {
-
-  /* 27:20:55:10 */
-  h5 {
-    position: fixed;
-    left: 30px;
-    top: 7px;
-    font-family: Jazz Gothic;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 255px;
-    line-height: 71%;
-    letter-spacing: 0.02em;
-  }
-
-  /* ЖИРАФ */
-  h2 {
-    position: fixed;
-    left: 35px;
-    top: 730px;
-    font-size: 80px;
-    letter-spacing: -0.04em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 900;
-  }
-
-  /* НА ЧАС */
-  h3 {
-    position: fixed;
-    left: 32px;
-    top: 800px;
-    font-size: 80px;
-    letter-spacing: -0.03em;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 900;
-  }
-
-  /* ТУСОВКА 25.03.2020 ЖЕЛТАЯ Д.88 */
-  p {
-    position: fixed;
-    width: 170px;
-    height: 155px;
-    left: 230px;
-    top: 535px;
-    font-size: 30px;
-    font-style: normal;
-    font-variant: normal;
-    line-height: 116.52%;
-  }
-
-  h1 {
-    display: none;
-  }
-
-  h4 {
-    display: none;
-  }
-}
-
 
 @media (max-width: 414px) {
 
@@ -600,6 +478,7 @@ h5 {
     font-size: 200px;
     line-height: 71%;
     letter-spacing: 0.02em;
+    color: #FFFFFF;
   }
 
   /* ЖИРАФ */
@@ -713,14 +592,6 @@ h5 {
 
 @media (max-width: 320px) {
 
-  h1 {
-    display: none;
-  }
-
-  h4 {
-    display: none;
-  }
-
   /* 27:20:55:10 */
   h5 {
     position: fixed;
@@ -772,6 +643,13 @@ h5 {
     line-height: 116.52%;
   }
 
+  h1 {
+    display: none;
+  }
+
+  h4 {
+    display: none;
+  }
 }
 
 /* ;;; */
