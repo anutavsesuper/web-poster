@@ -99,9 +99,9 @@ p {
 
 .one {
   position: absolute;
-  width: 515px;
+  width: 513px;
   height: 500px;
-  left: 111px;
+  left: 113px;
   top: 16px;
   z-index: 2;
 }
@@ -447,6 +447,45 @@ a svg #sixsvg {
     height: 835px;
     top: 0px;
   }
+
+  .one {
+    width: 472px;
+    height: 430px;
+    left: 96px;
+    top: 13px;
+  }
+
+  .two {
+    width: 515px;
+    height: 503px;
+    left: 711px;
+    top: 79px;
+  }
+
+  .three {
+    height: 300px;
+    left: 1269px;
+    top: -59px;
+  }
+
+  .four {
+    width: 700px;
+    height: 330px;
+    left: 1117px;
+    top: 506px;
+  }
+
+  .five {
+    width: 370px;
+    left: 1760px;
+    top: 444px;
+  }
+
+  .six {
+    height: 440px;
+    left: 2284px;
+    top: 301px;
+  }
 }
 
 
@@ -516,6 +555,47 @@ a svg #sixsvg {
     height: 715px;
     top: -5px;
   }
+  .one {
+    width: 405px;
+    height: 370px;
+    left: 72px;
+    top: 10px;
+  }
+
+  .two {
+    width: 455px;
+    height: 400px;
+    left: 600px;
+    top: 63px;
+  }
+
+  .three {
+    width: 310px;
+    height: 240px;
+    left: 1083px;
+    top: -47px;
+  }
+
+  .four {
+    width: 580px;
+    height: 276px;
+    left: 955px;
+    top: 445px;
+  }
+
+  .five {
+    width: 330px;
+    height: 170px;
+    left: 1493px;
+    top: 380px;
+  }
+
+  .six {
+    width: 410px;
+    height: 340px;
+    left: 1981px;
+    top: 288px;
+  }
 }
 
 
@@ -580,7 +660,49 @@ a svg #sixsvg {
 
   .telo {
     padding-left: 30px;
-}
+  }
+
+  .one {
+    width: 401px;
+    height: 365px;
+    left: 64px;
+    top: 12px;
+  }
+
+  .two {
+    width: 440px;
+    height: 395px;
+    left: 594px;
+    top: 69px;
+  }
+
+  .three {
+    width: 310px;
+    height: 240px;
+    left: 1072px;
+    top: -48px;
+  }
+
+  .four {
+    width: 612px;
+    height: 300px;
+    left: 933px;
+    top: 432px;
+  }
+
+  .five {
+    width: 311px;
+    height: 150px;
+    left: 1497px;
+    top: 382px;
+  }
+
+  .six {
+    width: 430px;
+    height: 350px;
+    left: 1960px;
+    top: 278px;
+  }
 }
 
 @media (max-width: 1024px) {
@@ -628,7 +750,7 @@ a svg #sixsvg {
     position: fixed;
     width: 160px;
     height: 190px;
-    right: 40px;
+    left: 825px;
     top: 310px;
     font-size: 30px;
     font-style: normal;
@@ -649,6 +771,48 @@ a svg #sixsvg {
     width: 2355px;
     height: 715px;
     top: -5px;
+  }
+
+  .one {
+    width: 390px;
+    height: 310px;
+    left: 66px;
+    top: 13px;
+  }
+
+  .two {
+    width: 440px;
+    height: 350px;
+    left: 585px;
+    top: 66px;
+  }
+
+  .three {
+    width: 320px;
+    height: 240px;
+    left: 1056px;
+    top: -49px;
+  }
+
+  .four {
+    width: 600px;
+    height: 280px;
+    left: 921px;
+    top: 428px;
+  }
+
+  .five {
+    width: 310px;
+    height: 170px;
+    left: 1476px;
+    top: 377px;
+  }
+
+  .six {
+    width: 410px;
+    height: 345px;
+    left: 1944px;
+    top: 280px;
   }
 }
 
@@ -723,7 +887,40 @@ a svg #sixsvg {
     width: 2285px;
     height: 690px;
     top: 155px;
-}
+  }
+
+  .one {
+    width: 388px;
+    height: 355px;
+    top: 11px;
+  }
+
+  .two {
+    width: 430px;
+    left: 573px;
+    top: 63px;
+  }
+
+  .three {
+    left: 1030px;
+  }
+
+  .four {
+    width: 579px;
+    left: 901px;
+    top: 417px;
+  }
+
+  .five {
+    width: 310px;
+    left: 1430px;
+    top: 365px;
+  }
+
+  .six {
+    left: 1885px;
+    top: 268px;
+  }
 
   h1 {
     display: none;
@@ -797,6 +994,48 @@ a svg #sixsvg {
     width: 1485px;
     height: 470px;
     top: 133px;
+  }
+
+  .one {
+    width: 260px;
+    height: 255px;
+    left: 41px;
+    top: 5px;
+  }
+
+  .two {
+    width: 280px;
+    height: 255px;
+    left: 373px;
+    top: 42px;
+  }
+
+  .three {
+    width: 190px;
+    height: 150px;
+    left: 675px;
+    top: -28px;
+  }
+
+  .four {
+    width: 368px;
+    height: 180px;
+    left: 593px;
+    top: 275px;
+  }
+
+  .five {
+    width: 200px;
+    height: 100px;
+    left: 930px;
+    top: 235px;
+  }
+
+  .six {
+    width: 280px;
+    height: 225px;
+    left: 1220px;
+    top: 166px;
   }
 
   h1 {
@@ -945,6 +1184,47 @@ a svg #sixsvg {
     padding-right: 13px;
     width: 1105px;
     height: 335px;
+  }
+
+  .one {
+    width: 191px;
+    height: 175px;
+    left: 26px;
+  }
+
+  .two {
+    width: 200px;
+    height: 185px;
+    left: 274px;
+    top: 34px;
+  }
+
+  .three {
+    width: 150px;
+    height: 115px;
+    left: 494px;
+    top: -23px;
+  }
+
+  .four {
+    width: 280px;
+    height: 132px;
+    left: 433px;
+    top: 202px;
+  }
+
+  .five {
+    width: 150px;
+    height: 75px;
+    left: 688px;
+    top: 177px;
+  }
+
+  .six {
+    width: 230px;
+    height: 185px;
+    left: 890px;
+    top: 113px;
   }
 
   h1 {
