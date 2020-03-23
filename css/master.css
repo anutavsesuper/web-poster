@@ -261,6 +261,140 @@ a svg #sixsvg {
   -webkit-transition-timing-function: ease-in-out;
 }
 
+
+
+
+
+
+
+
+
+
+
+.eyes {
+  left: 160px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  z-index: 5;
+}
+
+.eye {
+  width: 120px;
+  height: 120px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  z-index: 5;
+}
+
+.ball {
+  width: 40px;
+  height: 40px;
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  border: 20px solid #000;
+  z-index: 5;
+}
+
+.ball1 {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  top: 30%;
+  left: 30%;
+  transform: translate(-55%,-55%);
+  border-radius: 50%;
+  z-index: 5;
+}
+
+.ball2 {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  top: 30%;
+  left: 30%;
+  transform: translate(-55%,-55%);
+  border-radius: 50%;
+  z-index: 5;
+}
+
+
+
+.pesto {
+  left: 400px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  z-index: 5;
+}
+
+.pest {
+  width: 120px;
+  height: 120px;
+  background: #fff;
+  display: inline-block;
+  margin: 40px;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  z-index: 5;
+}
+
+.pes {
+  width: 40px;
+  height: 40px;
+  background: #000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  border: 20px solid #000;
+  z-index: 5;
+}
+
+.pes1 {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  top: 30%;
+  left: 30%;
+  transform: translate(-55%,-55%);
+  border-radius: 50%;
+  z-index: 5;
+}
+
+.pes2 {
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  top: 30%;
+  left: 30%;
+  transform: translate(-55%,-55%);
+  border-radius: 50%;
+  z-index: 5;
+}
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 1920px) {
 
   /* 27:20:55:10 */
