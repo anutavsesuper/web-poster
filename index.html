@@ -120,71 +120,71 @@
 
 
 
-      <div class="eyes">
-        <div class="eye">
-          <div class="ball">
-          <div class="ball1">
-          </div>
+      <div class="eyes1">
+        <div class="eye1">
+          <div class="ball_1">
+            <div class="ball_1_1">
           </div>
         </div>
+      </div>
 
-        <div class="eye">
-          <div class="ball">
-          <div class="ball2"></div>
+      <div class="eye1">
+        <div class="ball_1">
+            <div class="ball_1_2"></div>
           </div>
         </div>
       </div>
 
       <div class="eyes2">
         <div class="eye2">
-          <div class="pes">
-          <div class="pes1"></div>
+          <div class="ball_2">
+            <div class="ball_2_1">
+          </div>
         </div>
       </div>
 
       <div class="eye2">
-        <div class="pes">
-          <div class="pes2"></div>
+          <div class="ball_2">
+            <div class="ball_2_2"></div>
           </div>
         </div>
       </div>
 
       <div class="eyes3">
-        <div class="pes3">
-          <div class="ball3">
-          <div class="ball4">
-          </div>
-          </div>
+        <div class="eye3">
+          <div class="ball_3">
+            <div class="ball_3_1"></div>
         </div>
-
-
       </div>
+    </div>
+
+    </div>
 
 
 
 
 
     <script>
-    var pestos = document.getElementsByClassName("pes");
-    var balls = document.getElementsByClassName("ball");
-    var pesto = document.getElementsByClassName("pes3");
+    var eyes1 = document.getElementsByClassName("ball_1");
+    var eyes2 = document.getElementsByClassName("ball_2");
+    var eyes3 = document.getElementsByClassName("ball_3");
 
     document.onmousemove = function(){
     var x = event.clientX * 100 / window.innerWidth + "%";
     var y = event.clientY * 100 / window.innerHeight + "%";
 
     for(var i=0;i<2;i++){
-    pestos[i].style.left = x;
-    pestos[i].style.top = y;
-    pestos[i].style.transform = "translate(-"+x+",-"+y+")";
+    eyes1[i].style.left = x;
+    eyes1[i].style.top = y;
+    eyes1[i].style.transform = "translate(-"+x+",-"+y+")";
 
-    balls[i].style.left = x;
-    balls[i].style.top = y;
-    balls[i].style.transform = "translate(-"+x+",-"+y+")";
+    eyes2[i].style.left = x;
+    eyes2[i].style.top = y;
+    eyes2[i].style.transform = "translate(-"+x+",-"+y+")";
 
-    pesto[i].style.left = x;
-    pesto[i].style.top = y;
-    pesto[i].style.transform = "translate(-"+x+",-"+y+")";
+    eyes3[i].style.left = x;
+    eyes3[i].style.top = y;
+    eyes3[i].style.transform = "translate(-"+x+",-"+y+")";
     }
     }
     </script>
