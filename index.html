@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="css/master.css">
 
+
     <style>
 
    @font-face {
@@ -116,6 +117,77 @@
       <div class="ten">
         <img src="img/rot4.png" alt="rot">
       </div>
+
+
+
+
+      <div class="eyes">
+        <div class="eye">
+          <div class="ball">
+          <div class="ball1"></div>
+          </div>
+        </div>
+
+        <div class="eye">
+          <div class="ball">
+          <div class="ball2"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="pesto">
+        <div class="pest">
+          <div class="pes">
+          <div class="pes1"></div>
+          </div>
+        </div>
+
+        <div class="pest">
+          <div class="pes">
+          <div class="pes2"></div>
+          </div>
+        </div>
+      </div>
     </div>
+
+    </div>
+
+
+
+   <script>
+    var balls = document.getElementsByClassName("ball");
+    document.onmousemove = function(){
+      var x = event.clientX * 100 / window.innerWidth + "%";
+      var y = event.clientY * 100 / window.innerHeight + "%";
+
+      for(var i=0;i<2;i++){
+        balls[i].style.left = x;
+        balls[i].style.top = y;
+        balls[i].style.transform = "translate(-"+x+",-"+y+")";
+      }
+    }
+  </script>
+
+  <script>
+   var pestos = document.getElementsByClassName("pesto");
+   document.onmousemove = function(){
+     var x = event.clientX * 100 / window.innerWidth + "%";
+     var y = event.clientY * 100 / window.innerHeight + "%";
+
+     for(var i=0;i<2;i++){
+       pestos[i].style.left = x;
+       pestos[i].style.top = y;
+       pestos[i].style.transform = "translate(-"+x+",-"+y+")";
+     }
+   }
+ </script>
+
+
+
+
+
+
+
+
   </body>
 </html>
