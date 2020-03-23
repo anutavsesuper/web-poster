@@ -271,60 +271,60 @@ a svg #sixsvg {
 
 
 
-.eyes {
-  left: 180px;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 100%;
-  z-index: 5;
+.eyes1 {
+left: 180px;
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+width: 100%;
+z-index: 5;
 }
 
-.eye {
-  width: 120px;
-  height: 120px;
-  background: #fff;
-  display: inline-block;
-  margin: 40px;
-  border-radius: 50%;
-  position: relative;
-  overflow: hidden;
-  z-index: 5;
+.eye1 {
+width: 120px;
+height: 120px;
+background: #fff;
+display: inline-block;
+margin: 40px;
+border-radius: 50%;
+position: relative;
+overflow: hidden;
+z-index: 5;
 }
 
-.ball {
-  width: 40px;
-  height: 40px;
-  background: #000;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  border-radius: 50%;
-  border: 20px solid #000;
-  z-index: 5;
+.ball_1 {
+width: 40px;
+height: 40px;
+background: #000;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+border-radius: 50%;
+border: 20px solid #000;
+z-index: 5;
 }
 
-.ball1 {
-  width: 40px;
-  height: 40px;
-  background: #fff;
-  top: 30%;
-  left: 30%;
-  transform: translate(-55%,-55%);
-  border-radius: 50%;
-  z-index: 5;
+.ball_1_1 {
+width: 40px;
+height: 40px;
+background: #fff;
+top: 30%;
+left: 30%;
+transform: translate(-55%,-55%);
+border-radius: 50%;
+z-index: 5;
 }
 
-.ball2 {
-  width: 40px;
-  height: 40px;
-  background: #fff;
-  top: 30%;
-  left: 30%;
-  transform: translate(-55%,-55%);
-  border-radius: 50%;
-  z-index: 5;
+.ball_1_2 {
+width: 40px;
+height: 40px;
+background: #fff;
+top: 30%;
+left: 30%;
+transform: translate(-55%,-55%);
+border-radius: 50%;
+z-index: 5;
 }
 
 
@@ -333,110 +333,108 @@ a svg #sixsvg {
 
 
 .eyes2 {
-  left: 900px;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 100%;
-  z-index: 5;
+left: 900px;
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+width: 100%;
+z-index: 5;
 }
 
 .eye2 {
-  width: 120px;
-  height: 120px;
-  background: #fff;
-  display: inline-block;
-  margin: 40px;
-  border-radius: 50%;
-  position: relative;
-  overflow: hidden;
-  z-index: 5;
+width: 120px;
+height: 120px;
+background: #fff;
+display: inline-block;
+margin: 40px;
+border-radius: 50%;
+position: relative;
+overflow: hidden;
+z-index: 5;
 }
 
-.pes {
-  width: 40px;
-  height: 40px;
-  background: #000;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  border-radius: 50%;
-  border: 20px solid #000;
-  z-index: 5;
+.ball_2 {
+width: 40px;
+height: 40px;
+background: #000;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+border-radius: 50%;
+border: 20px solid #000;
+z-index: 5;
 }
 
-.pes1 {
-  width: 40px;
-  height: 40px;
-  background: #fff;
-  top: 30%;
-  left: 30%;
-  transform: translate(-55%,-55%);
-  border-radius: 50%;
-  z-index: 5;
+.ball_2_1 {
+width: 40px;
+height: 40px;
+background: #fff;
+top: 30%;
+left: 30%;
+transform: translate(-55%,-55%);
+border-radius: 50%;
+z-index: 5;
 }
 
-.pes2 {
-  width: 40px;
-  height: 40px;
-  background: #fff;
-  top: 30%;
-  left: 30%;
-  transform: translate(-55%,-55%);
-  border-radius: 50%;
-  z-index: 5;
+.ball_2_2 {
+width: 40px;
+height: 40px;
+background: #fff;
+top: 30%;
+left: 30%;
+transform: translate(-55%,-55%);
+border-radius: 50%;
+z-index: 5;
 }
-
 
 
 
 
 .eyes3 {
-  left: 300px;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 100%;
-  z-index: 5;
+left: 1500px;
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+width: 100%;
+z-index: 5;
 }
 
-.pes3 {
-  width: 120px;
-  height: 120px;
-  background: #fff;
-  display: inline-block;
-  margin: 40px;
-  border-radius: 50%;
-  position: relative;
-  overflow: hidden;
-  z-index: 5;
+.eye3 {
+width: 120px;
+height: 120px;
+background: #fff;
+display: inline-block;
+margin: 40px;
+border-radius: 50%;
+position: relative;
+overflow: hidden;
+z-index: 5;
 }
 
-.ball3 {
-  width: 40px;
-  height: 40px;
-  background: #000;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  border-radius: 50%;
-  border: 20px solid #000;
-  z-index: 5;
+.ball_3 {
+width: 40px;
+height: 40px;
+background: #000;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+border-radius: 50%;
+border: 20px solid #000;
+z-index: 5;
 }
 
-.ball4 {
-  width: 40px;
-  height: 40px;
-  background: #fff;
-  top: 30%;
-  left: 30%;
-  transform: translate(-55%,-55%);
-  border-radius: 50%;
-  z-index: 5;
+.ball_3_1 {
+width: 40px;
+height: 40px;
+background: #fff;
+top: 30%;
+left: 30%;
+transform: translate(-55%,-55%);
+border-radius: 50%;
+z-index: 5;
 }
-
 
 
 
@@ -526,7 +524,6 @@ a svg #sixsvg {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    width: 100%;
     z-index: 5;
   }
 }
@@ -771,13 +768,6 @@ a svg #sixsvg {
   .ten {
     left: 2593px;
   }
-
-
-  .eyes {
-    left: 130px;
-    top: 50%;
-    width: 100%;
-  }
 }
 
 
@@ -914,32 +904,6 @@ a svg #sixsvg {
     left: 2219px;
     top: 30px;
   }
-
-  .eyes {
-    left: 100px;
-    top: 50%;
-    width: 100%;
-  }
-
-  .eye {
-    width: 100px;
-    height: 100px;
-  }
-
-  .ball {
-    width: 30px;
-    height: 30px;
-  }
-
-  .ball1 {
-    width: 30px;
-    height: 30px;
-  }
-
-  .ball2 {
-    width: 30px;
-    height: 30px;
-  }
 }
 
 
@@ -1064,10 +1028,6 @@ a svg #sixsvg {
   .ten {
     left: 2209px;
     top: 34px;
-  }
-
-  .eyes {
-    left: 86px;
   }
 }
 
@@ -1321,32 +1281,6 @@ a svg #sixsvg {
 
   .ten {
     left: 2120px;
-  }
-
-  .eyes {
-    left: 86px;
-    top: 50%;
-    width: 100%;
-  }
-
-  .eye {
-    width: 100px;
-    height: 100px;
-  }
-
-  .ball {
-    width: 30px;
-    height: 30px;
-  }
-
-  .ball1 {
-    width: 30px;
-    height: 30px;
-  }
-
-  .ball2 {
-    width: 30px;
-    height: 30px;
   }
 
   h1 {
