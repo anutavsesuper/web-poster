@@ -58,7 +58,7 @@ p {
   width: 296px;
   height: 263.01px;
   right: 66px;
-  top: 415px;
+  left: 1560px;
   font-size: 57px;
   font-style: normal;
   font-variant: normal;
@@ -68,6 +68,12 @@ p {
 }
 
 .telo img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.seven img {
   display: block;
   max-width: 100%;
   height: auto;
@@ -144,6 +150,42 @@ p {
   height: 540px;
   left: 2539px;
   top: 361px;
+}
+
+.seven {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  left: 79px;
+  top: 29px;
+  z-index: 2;
+}
+
+.eight {
+  position: absolute;
+  width: 140px;
+  height: 250px;
+  left: 918px;
+  top: 648px;
+  z-index: 2;
+}
+
+.nine {
+  position: absolute;
+  width: 140px;
+  height: 250px;
+  left: 1738px;
+  top: 1px;
+  z-index: 2;
+}
+
+.ten {
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  left: 2861px;
+  top: 38px;
+  z-index: 2;
 }
 
 a {
@@ -328,7 +370,7 @@ a svg #sixsvg {
     position: fixed;
     width: 220px;
     height: 260px;
-    right: 110px;
+    left: 1343px;
     top: 400px;
     font-size: 50px;
     font-style: normal;
@@ -379,6 +421,24 @@ a svg #sixsvg {
     left: 2695px;
     top: 395px
   }
+
+  .seven {
+    left: 88px;
+  }
+
+  .eight {
+    left: 960px;
+    top: 688px;
+  }
+
+  .nine {
+    left: 1838px;
+    top: 11px;
+  }
+
+  .ten {
+    left: 3023px;
+  }
 }
 
 
@@ -424,7 +484,7 @@ a svg #sixsvg {
     position: fixed;
     width: 206px;
     height: 190px;
-    right: 80px;
+    left: 1150px;
     top: 360px;
     font-size: 40px;
     font-style: normal;
@@ -486,6 +546,24 @@ a svg #sixsvg {
     left: 2284px;
     top: 301px;
   }
+
+  .seven {
+    left: 59px;
+  }
+
+  .eight {
+    left: 838px;
+    top: 581px;
+  }
+
+  .nine {
+    left: 1563px;
+    top: -7px;
+  }
+
+  .ten {
+    left: 2593px;
+  }
 }
 
 
@@ -533,7 +611,7 @@ a svg #sixsvg {
     width: 206px;
     height: 190px;
     right: 30px;
-    top: 310px;
+    left: 1130px;
     font-size: 40px;
     font-style: normal;
     font-variant: normal;
@@ -596,6 +674,32 @@ a svg #sixsvg {
     left: 1981px;
     top: 288px;
   }
+
+  .seven {
+    width: 210px;
+    left: 43px;
+    top: 23px;
+  }
+
+  .eight {
+    width: 110px;
+    height: 190px;
+    left: 707px;
+    top: 508px;
+  }
+
+  .nine {
+    width: 110px;
+    height: 190px;
+    left: 1345px;
+    top: 3px;
+  }
+
+  .ten {
+    width: 210px;
+    left: 2219px;
+    top: 30px;
+  }
 }
 
 
@@ -642,7 +746,7 @@ a svg #sixsvg {
     position: fixed;
     width: 206px;
     height: 190px;
-    right: 25px;
+    left: 1052px;
     top: 288px;
     font-size: 40px;
     font-style: normal;
@@ -702,6 +806,24 @@ a svg #sixsvg {
     height: 350px;
     left: 1960px;
     top: 278px;
+  }
+
+  .seven {
+    left: 32px;
+    top: 30px;
+  }
+
+  .eight {
+    left: 696px;
+  }
+
+  .nine {
+    left: 1332px;
+  }
+
+  .ten {
+    left: 2209px;
+    top: 34px;
   }
 }
 
@@ -814,6 +936,23 @@ a svg #sixsvg {
     left: 1944px;
     top: 280px;
   }
+
+  .seven {
+    left: 30px;
+  }
+
+  .eight {
+    left: 690px;
+    top: 501px;
+  }
+
+  .nine {
+    left: 1315px;
+  }
+
+  .ten {
+    left: 2182px;
+  }
 }
 
 
@@ -865,7 +1004,7 @@ a svg #sixsvg {
     position: fixed;
     width: 160px;
     height: 190px;
-    right: 205px;
+    left: 405px;
     top: 470px;
     font-size: 40px;
     font-style: normal;
@@ -920,6 +1059,24 @@ a svg #sixsvg {
   .six {
     left: 1885px;
     top: 268px;
+  }
+
+  .seven {
+    left: 34px;
+  }
+
+  .eight {
+    left: 680px;
+    top: 482px;
+  }
+
+  .nine {
+    left: 1280px;
+    top: 0px;
+  }
+
+  .ten {
+    left: 2120px;
   }
 
   h1 {
@@ -1036,6 +1193,33 @@ a svg #sixsvg {
     height: 225px;
     left: 1220px;
     top: 166px;
+  }
+
+  .seven {
+    width: 140px;
+    height: 60px;
+    left: 23px;
+    top: 20px;
+  }
+
+  .eight {
+    width: 70px;
+    height: 140px;
+    left: 440px;
+    top: 314px;
+  }
+
+  .nine {
+    width: 70px;
+    height: 140px;
+    left: 835px;
+  }
+
+  .ten {
+    width: 140px;
+    height: 60px;
+    left: 1377px;
+    top: 23px;
   }
 
   h1 {
@@ -1225,6 +1409,34 @@ a svg #sixsvg {
     height: 185px;
     left: 890px;
     top: 113px;
+  }
+
+  .seven {
+    width: 100px;
+    height: 40px;
+    left: 12px;
+    top: 15px;
+  }
+
+  .eight {
+    width: 50px;
+    height: 82px;
+    left: 325px;
+    top: 235px;
+  }
+
+  .nine {
+    width: 50px;
+    height: 82px;
+    left: 618px;
+    top: 2px;
+  }
+
+  .ten {
+    width: 100px;
+    height: 40px;
+    left: 1022px;
+    top: 17px;
   }
 
   h1 {
