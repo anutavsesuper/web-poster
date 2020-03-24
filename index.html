@@ -158,6 +158,14 @@
       </div>
     </div>
 
+        <div class="eyes4">
+          <div class="eye4">
+            <div class="ball_4">
+              <div class="ball_4_1"></div>
+          </div>
+        </div>
+      </div>
+
     </div>
 
 
@@ -168,6 +176,7 @@
     var eyes1 = document.getElementsByClassName("ball_1");
     var eyes2 = document.getElementsByClassName("ball_2");
     var eyes3 = document.getElementsByClassName("ball_3");
+    var eyes4 = document.getElementsByClassName("ball_4");
 
     document.onmousemove = function(){
     var x = event.clientX * 100 / window.innerWidth + "%";
@@ -185,6 +194,10 @@
     eyes3[i].style.left = x;
     eyes3[i].style.top = y;
     eyes3[i].style.transform = "translate(-"+x+",-"+y+")";
+
+    eyes4[i].style.left = x;
+    eyes4[i].style.top = y;
+    eyes4[i].style.transform = "translate(-"+x+",-"+y+")";
     }
     }
     </script>
