@@ -118,7 +118,7 @@ p {
   left: 1550px;
   top: 680px;
   transition:
-  transition: 1s linear; 1s linear;
+  transition: 1s linear;
 }
 
 .one {
@@ -137,8 +137,8 @@ p {
   height: 563px;
   left: 790px;
   top: 90px;
-
-transition: 1s linear;}
+  transition: 1s linear;
+}
 
 .three {
   position: absolute;
