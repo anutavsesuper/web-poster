@@ -28,6 +28,24 @@ body {
   margin-left: -450px;
 }
 
+
+#rectangle2 {
+  position: absolute;
+  left: 1824px;
+  top: 85px;
+  width: 50px;
+  height: 90px;
+  border-radius: 100px;
+  background: #cc0093;
+  z-index: 7;
+  transition: 1s linear;
+}
+
+#rectangle2:hover {
+  width: 600px;
+}
+
+
 /* 27:20:55:10 */
 h1 {
   position: fixed;
@@ -553,6 +571,17 @@ a svg #sixsvg {
     margin-left: -450px;
   }
 
+  #rectangle2 {
+    left: 1824px;
+    top: 85px;
+    width: 50px;
+    height: 90px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
+  }
+
   /* 27:20:55:10 */
   h1 {
     position: fixed;
@@ -659,6 +688,17 @@ a svg #sixsvg {
   #rectangle:hover {
     width: 500px;
     margin-left: -450px;
+  }
+
+  #rectangle2 {
+    left: 1921px;
+    top: 96px;
+    width: 50px;
+    height: 90px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
   }
 
   /* 27:20:55:10 */
@@ -805,6 +845,17 @@ a svg #sixsvg {
   #rectangle:hover {
     width: 500px;
     margin-left: -450px;
+  }
+
+  #rectangle2 {
+    left: 1646px;
+    top: 78px;
+    width: 50px;
+    height: 90px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
   }
 
   /* 27:20:55:10 */
@@ -962,6 +1013,17 @@ a svg #sixsvg {
   #rectangle:hover {
     width: 500px;
     margin-left: -460px;
+  }
+
+  #rectangle2 {
+    left: 1415px;
+    top: 70px;
+    width: 35px;
+    height: 70px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
   }
 
   /* 27:20:55:10 */
@@ -1180,6 +1242,17 @@ a svg #sixsvg {
     margin-left: -460px;
   }
 
+  #rectangle2 {
+    left: 1400px;
+    top: 70px;
+    width: 35px;
+    height: 70px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
+  }
+
   /* 27:20:55:10 */
   h1 {
     position: fixed;
@@ -1323,6 +1396,17 @@ a svg #sixsvg {
   #rectangle:hover {
     width: 500px;
     margin-left: -460px;
+  }
+
+  #rectangle2 {
+    left: 1385px;
+    top: 69px;
+    width: 35px;
+    height: 70px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
   }
 
   /* 27:20:55:10 */
@@ -1487,6 +1571,17 @@ a svg #sixsvg {
   #rectangle:hover {
     width: 500px;
     margin-left: -460px;
+  }
+
+  #rectangle2 {
+    left: 1348px;
+    top: 67px;
+    width: 35px;
+    height: 70px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
   }
 
   /* 27:20:55:10 */
@@ -1730,6 +1825,17 @@ a svg #sixsvg {
   #rectangle:hover {
     width: 300px;
     margin-left: -275px;
+  }
+
+  #rectangle2 {
+    left: 880px;
+    top: 40px;
+    width: 21px;
+    height: 50px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
   }
 
   /* 27:20:55:10 */
@@ -2066,6 +2172,17 @@ a svg #sixsvg {
   #rectangle:hover {
     width: 385px;
     margin-left: -370px;
+  }
+
+  #rectangle2 {
+    left: 649px;
+    top: 31px;
+    width: 15px;
+    height: 35px;
+  }
+
+  #rectangle2:hover {
+    width: 600px;
   }
 
   /* 27:20:55:10 */
